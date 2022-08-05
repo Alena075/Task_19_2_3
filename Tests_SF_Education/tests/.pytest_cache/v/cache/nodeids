@@ -1,0 +1,7 @@
+[
+  "first_test.py::TestCalc::test_multiply_calculate_correctly",
+  "fourth_test.py::TestCalc::test_multiply_calculate_correctly",
+  "second_test.py::TestCalc::test_division_calculate_correctly",
+  "second_test.py::TestCalc::test_multiply_calculate_correctly",
+  "third_test.py::TestCalc::test_subtraction_calculate_correctly"
+]

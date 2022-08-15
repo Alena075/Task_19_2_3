@@ -1,0 +1,6 @@
+{
+  "test_pet_friends.py::test_successful_add_foto_of_pet": true,
+  "test_pet_friends.py::test_add_new_pet_with_incorrect_age": true,
+  "test_pet_friends.py::test_add_new_pet_with_empty_age": true,
+  "test_pet_friends.py::test_add_new_pet_with_valid_data": true
+}
